@@ -1,0 +1,1 @@
+# plugins-universal-google-adsense-and-ads-manager
